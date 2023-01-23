@@ -14,7 +14,7 @@ public class OperasiBaru {
                 uts = Integer.parseInt(str.substring(4,6));
                 uas = Integer.parseInt(str.substring(7,9));
                 nilai = (20*tgs+30*uts+50*uas)/100.0;
-                System.out.printf("Tugas %d Uts % d uas % d " + "Nilai % 7.2f/n", tgs, uts, uas, nilai);
+                System.out.printf("Tugas %d Uts % d uas % d " + "Nilaiiiiiiiiiiii % 7.2f/n", tgs, uts, uas, nilai);
             }
             br.close();
         } catch (Exception e) {
